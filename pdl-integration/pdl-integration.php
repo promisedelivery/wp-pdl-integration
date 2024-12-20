@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: PDL Integration
- * Plugin URI: https://yourpluginwebsite.com
+ * Plugin URI: https://promisedelivery.com.bd
  * Description: A plugin for Promise Delivery Ltd requiring WooCommerce.
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: c0desman
+ * Author URI: https://facebook.com/c0desman
  * Text Domain: pdl
  * Domain Path: /languages
  * Requires at least: 5.0
